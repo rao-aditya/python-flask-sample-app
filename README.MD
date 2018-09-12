@@ -1,3 +1,5 @@
+[![Codefresh build status]( https://g.codefresh.io/api/badges/pipeline/raoaditya/rao-aditya%2Fpython-flask-sample-app%2Fpython-flask-sample-app?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWI5OTg2M2U3YzczZjMwMDAxMmMwMjYz.-O9CRi5fj21T7A5owhHaFiNOCvhpjejy5Vq46pL6xdI&type=cf-1)]( https://g.codefresh.io/repositories/rao-aditya/python-flask-sample-app/builds?filter=trigger:build;branch:master;service:5b998d94e88521a7eb7abb0a~python-flask-sample-app)
+
 ## MiniTwit an example application written in Python/Flask
 
 Original source code from https://github.com/pallets/flask/tree/16d83d6bb413bec09a656a659b98d897e7abcc81/examples/minitwit
